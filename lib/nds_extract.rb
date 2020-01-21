@@ -51,6 +51,7 @@ def movies_with_director_key(name, movies_collection)
   result = []
   i = 0 
   while i < movies_collection[i]
+  
 end
 
 
